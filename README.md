@@ -1,6 +1,5 @@
-# Projeto Feelo - Semana 6
-**Aluno:** Theo Goulart
-**Matrícula:** 907916
+# Feelo - Rede Social Emocional
 
-## Descrição
-Rede social focada em sentimentos, refatorada com Bootstrap para ser responsiva.
+**Autor:** Theo Goulart Cardoso Vasconcelos
+**Matricula** 907916
+**Tecnologias:** HTML5, CSS3, Bootstrap 5.3.
