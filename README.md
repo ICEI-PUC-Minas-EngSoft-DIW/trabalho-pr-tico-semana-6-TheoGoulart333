@@ -28,9 +28,9 @@ O projeto utiliza o sistema de grid do Bootstrap para garantir que a interface s
 
 Na versão desktop, os elementos são distribuídos horizontalmente, aproveitando o espaço da tela para exibir o feed e a sidebar simultaneamente.
 
-![Desktop Home](feelo-1.jpg)
-![Desktop Cards](feelo-2.jpg)
-![Desktop Feed](feelo-3.jpg)
+![Desktop Home](feelo-1.png)
+![Desktop Cards](feelo-2.png)
+![Desktop Feed](feelo-3.png)
 
 ### Versão Mobile
 
@@ -38,7 +38,7 @@ Para dispositivos móveis, o Bootstrap aplica o colapso do menu de navegação (
 
 ![Mobile Header](feelo-4.png)
 ![Mobile Feed](feelo-5.png)
-![Mobile Sidebar e Footer](feelo-7.jpg)
+![Mobile Sidebar e Footer](feelo-7.png)
 
 ---
 © 2026 Feelo - Desenvolvido por Theo Goulart
